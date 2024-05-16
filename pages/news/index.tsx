@@ -19,6 +19,9 @@ export default function News() {
           <li>
             <Link href="/news/new4">New 4</Link>
           </li>
+          <li>
+            <Link href="/news/new5">New 5</Link>
+          </li>
           <button
             type="button"
             onClick={() => {
